@@ -6,7 +6,7 @@
 </p>
 
 ---
-### AICWSA armour infosec windows server administrator Certified | Cybersecurity Student
+### AICWS/ armour infosec windows server administrator Certified | Cybersecurity Student
 ### 🔐 About Me:
 - 🧠 I’m currently learning **Pentesting**, **Linux**, and **Vulnerability Assessment**
 - 🛠️ I work on: `Kali Linux`, `Parrot OS`, `Burp Suite`, `Nmap`, `Metasploit`, and more.
