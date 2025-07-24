@@ -15,11 +15,20 @@
 - 🌱 Always open to learn and collaborate on cybersecurity projects
 
 ---
+### 📂 Pinned Projects
 
-### 📂 Pinned Projects:
-- 🐧 **[Linux Essentials](https://github.com/krishnakushwah0310/Linux-Essentials)** – Beginner to advanced Linux commands and concepts
-- 💀 **[Kali Pentest Setup](https://github.com/krishnakushwah0310/kali-pentest-setup)** – Custom Kali configuration for ethical hacking
-- 🔐 **[CentOS Basic Commands](https://github.com/krishnakushwah0310/centos-basic-commands)** – Simple terminal commands for CentOS beginners
+- 🐧 [**Linux Essentials**](https://github.com/krishnakushwah0310/Linux-Essentials)  
+  *Beginner to advanced Linux commands, file systems, shell scripting, and system management.*
+
+- 💀 [**Kali Pentest Setup**](https://github.com/krishnakushwah0310/kali-pentest-setup)  
+  *Customized Kali Linux configuration with essential tools and tweaks for penetration testing.*
+
+- 🔐 [**CentOS Basic Commands**](https://github.com/krishnakushwah0310/centos-basic-commands)  
+  *Fundamental terminal commands and shortcuts tailored for CentOS beginners.*
+
+- ⚙️ [**Kali Linux Complete Setup**](https://github.com/krishnakushwah0310/Kali-Linux-Complete-Setup)  
+  *End-to-end Kali Linux installation, configuration, GUI fixes, essential tools, and post-install setup.*
+
 
 ---
 
