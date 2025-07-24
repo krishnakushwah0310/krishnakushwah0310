@@ -20,9 +20,6 @@
 - 🐧 [**Linux Essentials**](https://github.com/krishnakushwah0310/Linux-Essentials)  
   *Beginner to advanced Linux commands, file systems, shell scripting, and system management.*
 
-- 💀 [**Kali Pentest Setup**](https://github.com/krishnakushwah0310/kali-pentest-setup)  
-  *Customized Kali Linux configuration with essential tools and tweaks for penetration testing.*
-
 - 🔐 [**CentOS Basic Commands**](https://github.com/krishnakushwah0310/centos-basic-commands)  
   *Fundamental terminal commands and shortcuts tailored for CentOS beginners.*
 
