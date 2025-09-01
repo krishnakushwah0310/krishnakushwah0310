@@ -68,15 +68,6 @@
 
 ---
 
-### 🛠️ Skills:
-<p>
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
-  <img src="https://img.shields.io/badge/Kali-557C94?style=for-the-badge&logo=kalilinux&logoColor=white" />
-  <img src="https://img.shields.io/badge/Burp%20Suite-ff7043?style=for-the-badge&logoColor=white" />
-  <img src="https://img.shields.io/badge/Nmap-004170?style=for-the-badge&logoColor=white" />
-  <img src="https://img.shields.io/badge/TryHackMe-red?style=for-the-badge&logo=tryhackme&logoColor=white" />
-</p>
-
 ---
 
 <p align="center">✨ “Cybersecurity is not just a career, it’s a mindset.” ✨</p>
