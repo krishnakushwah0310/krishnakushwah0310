@@ -68,6 +68,7 @@
 
 ---
 
+<p align="center">✨ “Cybersecurity is not just a career, it’s a mindset.” ✨</p>
+
 ---
 
-<p align="center">✨ “Cybersecurity is not just a career, it’s a mindset.” ✨</p>
