@@ -34,20 +34,6 @@
 |------------|------|------------|-----------|--------|----------------|  
 | <img src="https://github.com/nikhilpatidar01/nikhilpatidar01/blob/Master/Images/Burp%20Suite.png" style="width: 70px; height: 70px; object-fit: contain;"/> | <img src="https://github.com/nikhilpatidar01/nikhilpatidar01/blob/Master/Images/Nmap.png" style="width: 70px; height: 70px; object-fit: contain;"/> | <img src="https://github.com/nikhilpatidar01/nikhilpatidar01/blob/Master/Images/Meta%20Sploit.png" style="width: 70px; height: 70px; object-fit: contain;"/> | <img src="https://github.com/nikhilpatidar01/nikhilpatidar01/blob/Master/Images/Wireshark.png" style="width: 70px; height: 70px; object-fit: contain;"/> | <img src="https://github.com/nikhilpatidar01/nikhilpatidar01/blob/Master/Images/Netcat.png" style="width: 70px; height: 70px; object-fit: contain;"/> | <img src="https://github.com/nikhilpatidar01/nikhilpatidar01/blob/Master/Images/John%20the%20Ripper.png" style="width: 70px; height: 70px; object-fit: contain;"/> |
 
-
----
-### 📂 Pinned Projects
-
-- 🐧 [**Linux Essentials**](https://github.com/krishnakushwah0310/Linux-Essentials)  
-  *Beginner to advanced Linux commands, file systems, shell scripting, and system management.*
-
-- 🔐 [**CentOS Basic Commands**](https://github.com/krishnakushwah0310/centos-basic-commands)  
-  *Fundamental terminal commands and shortcuts tailored for CentOS beginners.*
-
-- ⚙️ [**Kali Linux Complete Setup**](https://github.com/krishnakushwah0310/Kali-Linux-Complete-Setup)  
-  *End-to-end Kali Linux installation, configuration, GUI fixes, essential tools, and post-install setup.*
-
-
 ---
 
 ### 📫 Connect with Me:
@@ -55,14 +41,6 @@
   <a href="mailto:krishkush332@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
   <a href="https://www.linkedin.com/in/krishna-kushwah-382821231/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="https://medium.com/@krishkush332"><img src="https://img.shields.io/badge/Medium-black?style=for-the-badge&logo=medium&logoColor=white"/></a>
-</p>
-
----
-
-### 📊 GitHub Stats:
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=krishnakushwah0310&show_icons=true&theme=radical" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=krishnakushwah0310&theme=radical&hide_border=true" />
 </p>
 
 ---
