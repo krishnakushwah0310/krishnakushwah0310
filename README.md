@@ -1,7 +1,6 @@
 # Krishna Kushwah
 
-BCA student at DAVV, Indore. Into offensive security and systems administration.
-
+BCA student at DAVV, Indore. Into offensive security
 - Windows and Linux
 - Web application and wireless penetration testing
 - Reconnaissance tooling
